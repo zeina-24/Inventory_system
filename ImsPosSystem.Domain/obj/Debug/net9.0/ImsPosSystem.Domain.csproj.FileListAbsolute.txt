@@ -1,0 +1,11 @@
+C:\Users\HAGER\.gemini\antigravity\scratch\ImsPosSystem\ImsPosSystem.Domain\bin\Debug\net9.0\ImsPosSystem.Domain.deps.json
+C:\Users\HAGER\.gemini\antigravity\scratch\ImsPosSystem\ImsPosSystem.Domain\bin\Debug\net9.0\ImsPosSystem.Domain.dll
+C:\Users\HAGER\.gemini\antigravity\scratch\ImsPosSystem\ImsPosSystem.Domain\bin\Debug\net9.0\ImsPosSystem.Domain.pdb
+C:\Users\HAGER\.gemini\antigravity\scratch\ImsPosSystem\ImsPosSystem.Domain\obj\Debug\net9.0\ImsPosSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAGER\.gemini\antigravity\scratch\ImsPosSystem\ImsPosSystem.Domain\obj\Debug\net9.0\ImsPosSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\HAGER\.gemini\antigravity\scratch\ImsPosSystem\ImsPosSystem.Domain\obj\Debug\net9.0\ImsPosSystem.Domain.AssemblyInfo.cs
+C:\Users\HAGER\.gemini\antigravity\scratch\ImsPosSystem\ImsPosSystem.Domain\obj\Debug\net9.0\ImsPosSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HAGER\.gemini\antigravity\scratch\ImsPosSystem\ImsPosSystem.Domain\obj\Debug\net9.0\ImsPosSystem.Domain.dll
+C:\Users\HAGER\.gemini\antigravity\scratch\ImsPosSystem\ImsPosSystem.Domain\obj\Debug\net9.0\refint\ImsPosSystem.Domain.dll
+C:\Users\HAGER\.gemini\antigravity\scratch\ImsPosSystem\ImsPosSystem.Domain\obj\Debug\net9.0\ImsPosSystem.Domain.pdb
+C:\Users\HAGER\.gemini\antigravity\scratch\ImsPosSystem\ImsPosSystem.Domain\obj\Debug\net9.0\ref\ImsPosSystem.Domain.dll

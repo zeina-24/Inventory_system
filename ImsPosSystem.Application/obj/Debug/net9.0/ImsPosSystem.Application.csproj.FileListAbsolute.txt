@@ -1,0 +1,15 @@
+C:\Users\HAGER\.gemini\antigravity\scratch\ImsPosSystem\ImsPosSystem.Application\bin\Debug\net9.0\ImsPosSystem.Application.deps.json
+C:\Users\HAGER\.gemini\antigravity\scratch\ImsPosSystem\ImsPosSystem.Application\bin\Debug\net9.0\ImsPosSystem.Application.dll
+C:\Users\HAGER\.gemini\antigravity\scratch\ImsPosSystem\ImsPosSystem.Application\bin\Debug\net9.0\ImsPosSystem.Application.pdb
+C:\Users\HAGER\.gemini\antigravity\scratch\ImsPosSystem\ImsPosSystem.Application\bin\Debug\net9.0\ImsPosSystem.Domain.dll
+C:\Users\HAGER\.gemini\antigravity\scratch\ImsPosSystem\ImsPosSystem.Application\bin\Debug\net9.0\ImsPosSystem.Domain.pdb
+C:\Users\HAGER\.gemini\antigravity\scratch\ImsPosSystem\ImsPosSystem.Application\obj\Debug\net9.0\ImsPosSystem.Application.csproj.AssemblyReference.cache
+C:\Users\HAGER\.gemini\antigravity\scratch\ImsPosSystem\ImsPosSystem.Application\obj\Debug\net9.0\ImsPosSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAGER\.gemini\antigravity\scratch\ImsPosSystem\ImsPosSystem.Application\obj\Debug\net9.0\ImsPosSystem.Application.AssemblyInfoInputs.cache
+C:\Users\HAGER\.gemini\antigravity\scratch\ImsPosSystem\ImsPosSystem.Application\obj\Debug\net9.0\ImsPosSystem.Application.AssemblyInfo.cs
+C:\Users\HAGER\.gemini\antigravity\scratch\ImsPosSystem\ImsPosSystem.Application\obj\Debug\net9.0\ImsPosSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\HAGER\.gemini\antigravity\scratch\ImsPosSystem\ImsPosSystem.Application\obj\Debug\net9.0\ImsPosSy.8690C867.Up2Date
+C:\Users\HAGER\.gemini\antigravity\scratch\ImsPosSystem\ImsPosSystem.Application\obj\Debug\net9.0\ImsPosSystem.Application.dll
+C:\Users\HAGER\.gemini\antigravity\scratch\ImsPosSystem\ImsPosSystem.Application\obj\Debug\net9.0\refint\ImsPosSystem.Application.dll
+C:\Users\HAGER\.gemini\antigravity\scratch\ImsPosSystem\ImsPosSystem.Application\obj\Debug\net9.0\ImsPosSystem.Application.pdb
+C:\Users\HAGER\.gemini\antigravity\scratch\ImsPosSystem\ImsPosSystem.Application\obj\Debug\net9.0\ref\ImsPosSystem.Application.dll

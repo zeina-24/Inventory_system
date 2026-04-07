@@ -1,0 +1,6 @@
+@ImsPosSystem.Api_HostAddress = http://localhost:5251
+
+GET {{ImsPosSystem.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
