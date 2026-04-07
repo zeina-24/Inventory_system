@@ -5261,11 +5261,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HAGER\\.gemini\\antigravity\\scratch\\ImsPosSystem\\ImsPosSystem.Api\\ImsPosSystem.Api.csproj",
+      "projectUniqueName": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Api\\ImsPosSystem.Api.csproj",
       "projectName": "ImsPosSystem.Api",
-      "projectPath": "C:\\Users\\HAGER\\.gemini\\antigravity\\scratch\\ImsPosSystem\\ImsPosSystem.Api\\ImsPosSystem.Api.csproj",
+      "projectPath": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Api\\ImsPosSystem.Api.csproj",
       "packagesPath": "C:\\Users\\HAGER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HAGER\\.gemini\\antigravity\\scratch\\ImsPosSystem\\ImsPosSystem.Api\\obj\\",
+      "outputPath": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5286,14 +5286,14 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\HAGER\\.gemini\\antigravity\\scratch\\ImsPosSystem\\ImsPosSystem.Application\\ImsPosSystem.Application.csproj": {
-              "projectPath": "C:\\Users\\HAGER\\.gemini\\antigravity\\scratch\\ImsPosSystem\\ImsPosSystem.Application\\ImsPosSystem.Application.csproj"
+            "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Application\\ImsPosSystem.Application.csproj": {
+              "projectPath": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Application\\ImsPosSystem.Application.csproj"
             },
-            "C:\\Users\\HAGER\\.gemini\\antigravity\\scratch\\ImsPosSystem\\ImsPosSystem.Domain\\ImsPosSystem.Domain.csproj": {
-              "projectPath": "C:\\Users\\HAGER\\.gemini\\antigravity\\scratch\\ImsPosSystem\\ImsPosSystem.Domain\\ImsPosSystem.Domain.csproj"
+            "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Domain\\ImsPosSystem.Domain.csproj": {
+              "projectPath": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Domain\\ImsPosSystem.Domain.csproj"
             },
-            "C:\\Users\\HAGER\\.gemini\\antigravity\\scratch\\ImsPosSystem\\ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\HAGER\\.gemini\\antigravity\\scratch\\ImsPosSystem\\ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj"
+            "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj"
             }
           }
         }

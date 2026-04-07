@@ -1,5 +1,6 @@
 using ImsPosSystem.Api.Middleware;
 using ImsPosSystem.Infrastructure.Extensions;
+using ImsPosSystem.Infrastructure.Persistence;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -41,6 +42,14 @@ builder.Services.AddCors(options =>
 });
 
 var app = builder.Build();
+
+// ── Data Seeding ─────────────────────────────────────────────────────────────
+if (app.Environment.IsDevelopment())
+{
+    using var scope = app.Services.CreateScope();
+    var context = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
+    await DbInitializer.Initialize(context);
+}
 
 // ── Middleware pipeline ──────────────────────────────────────────────────────
 if (app.Environment.IsDevelopment())

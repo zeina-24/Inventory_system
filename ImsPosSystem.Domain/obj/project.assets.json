@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HAGER\\.gemini\\antigravity\\scratch\\ImsPosSystem\\ImsPosSystem.Domain\\ImsPosSystem.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Domain\\ImsPosSystem.Domain.csproj",
       "projectName": "ImsPosSystem.Domain",
-      "projectPath": "C:\\Users\\HAGER\\.gemini\\antigravity\\scratch\\ImsPosSystem\\ImsPosSystem.Domain\\ImsPosSystem.Domain.csproj",
+      "projectPath": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Domain\\ImsPosSystem.Domain.csproj",
       "packagesPath": "C:\\Users\\HAGER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HAGER\\.gemini\\antigravity\\scratch\\ImsPosSystem\\ImsPosSystem.Domain\\obj\\",
+      "outputPath": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

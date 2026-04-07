@@ -39,6 +39,10 @@ public static class InfrastructureServiceExtensions
         services.AddScoped<IStorageLocationService, StorageLocationService>();
         services.AddScoped<IStockLedgerService, StockLedgerService>();
 
+        // ── Purchasing services ───────────────────────────────────────────────
+        services.AddScoped<ISupplierService, SupplierService>();
+        services.AddScoped<IPurchaseService, PurchaseService>();
+
         return services;
     }
 }

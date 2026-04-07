@@ -1,6 +1,7 @@
 using AutoMapper;
 using ImsPosSystem.Application.DTOs.Catalogue;
 using ImsPosSystem.Application.DTOs.Warehouse;
+using ImsPosSystem.Application.DTOs.Purchasing;
 using ImsPosSystem.Domain.Entities;
 
 namespace ImsPosSystem.Application.Mappings;
@@ -32,5 +33,23 @@ public class MappingProfile : Profile
             .ForMember(dest => dest.Shelf, opt => opt.MapFrom(src => src.Location.Shelf))
             .ForMember(dest => dest.ReorderLevel, opt => opt.MapFrom(src => src.Product.ReorderLevel))
             .ForMember(dest => dest.IsLowStock, opt => opt.MapFrom(src => src.QtyOnHand < src.Product.ReorderLevel));
+
+        // ── Purchasing ───────────────────────────────────────────────────────
+        CreateMap<Supplier, SupplierDTO>();
+        CreateMap<CreateSupplierDTO, Supplier>();
+        CreateMap<UpdateSupplierDTO, Supplier>();
+
+        CreateMap<PurchaseInvoice, PurchaseInvoiceDTO>()
+            .ForMember(dest => dest.SupplierName, opt => opt.MapFrom(src => src.Supplier.SupplierName))
+            .ForMember(dest => dest.Lines, opt => opt.MapFrom(src => src.PurchaseInvoiceLines));
+
+        CreateMap<PurchaseInvoiceLine, PurchaseInvoiceLineDTO>()
+            .ForMember(dest => dest.ProductName, opt => opt.MapFrom(src => src.Product.ProductName))
+            .ForMember(dest => dest.LocationName, opt => opt.MapFrom(src => src.Location.Description));
+
+        CreateMap<CreatePurchaseInvoiceDTO, PurchaseInvoice>()
+            .ForMember(dest => dest.PurchaseInvoiceLines, opt => opt.MapFrom(src => src.Lines));
+
+        CreateMap<CreatePurchaseInvoiceLineDTO, PurchaseInvoiceLine>();
     }
 }

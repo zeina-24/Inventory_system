@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yTV9Vkdy/TE=",
+  "dgSpecHash": "Uibxrqa1//g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HAGER\\.gemini\\antigravity\\scratch\\ImsPosSystem\\ImsPosSystem.Api\\ImsPosSystem.Api.csproj",
+  "projectFilePath": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Api\\ImsPosSystem.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HAGER\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\HAGER\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
