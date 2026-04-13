@@ -21,3 +21,4 @@ C:\Users\HAGER\Projects\ImsPosSystem\ImsPosSystem.Domain\obj\Debug\net9.0\ImsPos
 C:\Users\HAGER\Projects\ImsPosSystem\ImsPosSystem.Domain\obj\Debug\net9.0\refint\ImsPosSystem.Domain.dll
 C:\Users\HAGER\Projects\ImsPosSystem\ImsPosSystem.Domain\obj\Debug\net9.0\ImsPosSystem.Domain.pdb
 C:\Users\HAGER\Projects\ImsPosSystem\ImsPosSystem.Domain\obj\Debug\net9.0\ref\ImsPosSystem.Domain.dll
+C:\Users\HAGER\Projects\ImsPosSystem\ImsPosSystem.Domain\obj\Debug\net9.0\ImsPosSystem.Domain.csproj.AssemblyReference.cache

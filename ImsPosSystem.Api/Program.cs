@@ -1,6 +1,10 @@
 using ImsPosSystem.Api.Middleware;
 using ImsPosSystem.Infrastructure.Extensions;
 using ImsPosSystem.Infrastructure.Persistence;
+using ImsPosSystem.Infrastructure.Services;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -41,6 +45,31 @@ builder.Services.AddCors(options =>
         policy.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
 });
 
+// ── JWT Authentication ────────────────────────────────────────────────────────
+var jwtKey = builder.Configuration["JWT:Key"];
+if (!string.IsNullOrEmpty(jwtKey))
+{
+    builder.Services.AddAuthentication(options =>
+    {
+        options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+        options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+        options.DefaultScheme = JwtBearerDefaults.AuthenticationScheme;
+    })
+    .AddJwtBearer(options =>
+    {
+        options.SaveToken = true;
+        options.RequireHttpsMetadata = false;
+        options.TokenValidationParameters = new TokenValidationParameters
+        {
+            ValidateIssuer = true,
+            ValidIssuer = builder.Configuration["JWT:Iss"],
+            ValidateAudience = true,
+            ValidAudience = builder.Configuration["JWT:Aud"],
+            IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(jwtKey))
+        };
+    });
+}
+
 var app = builder.Build();
 
 // ── Data Seeding ─────────────────────────────────────────────────────────────
@@ -49,6 +78,7 @@ if (app.Environment.IsDevelopment())
     using var scope = app.Services.CreateScope();
     var context = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
     await DbInitializer.Initialize(context);
+    await RoleSeeder.SeedRolesAndAdminAsync(scope.ServiceProvider);
 }
 
 // ── Middleware pipeline ──────────────────────────────────────────────────────
@@ -61,6 +91,7 @@ if (app.Environment.IsDevelopment())
 app.UseCors("AllowAll");
 app.UseMiddleware<GlobalExceptionMiddleware>();
 app.UseHttpsRedirection();
+app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers();
 

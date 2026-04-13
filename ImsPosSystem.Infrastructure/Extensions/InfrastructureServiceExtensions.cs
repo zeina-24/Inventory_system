@@ -6,6 +6,8 @@ using ImsPosSystem.Application.Mappings; // Added this
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.AspNetCore.Identity;
+using ImsPosSystem.Domain.Entities;
 
 namespace ImsPosSystem.Infrastructure.Extensions;
 
@@ -23,6 +25,11 @@ public static class InfrastructureServiceExtensions
                     maxRetryCount: 3,
                     maxRetryDelay: TimeSpan.FromSeconds(10),
                     errorNumbersToAdd: null)));
+
+        // Register Identity
+        services.AddIdentity<ApplicationUser, IdentityRole>()
+            .AddEntityFrameworkStores<ApplicationDbContext>()
+            .AddDefaultTokenProviders();
 
         // Register Unit of Work (scoped = one per HTTP request)
         services.AddScoped<IUnitOfWork, UnitOfWork>();
@@ -42,6 +49,12 @@ public static class InfrastructureServiceExtensions
         // ── Purchasing services ───────────────────────────────────────────────
         services.AddScoped<ISupplierService, SupplierService>();
         services.AddScoped<IPurchaseService, PurchaseService>();
+
+        // ── POS services ──────────────────────────────────────────────────────
+        services.AddScoped<ISalesService, SalesService>();
+
+        // ── Dashboard & Reporting services ────────────────────────────────────
+        services.AddScoped<IDashboardService, DashboardService>();
 
         return services;
     }

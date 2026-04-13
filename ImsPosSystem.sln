@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImsPosSystem.Infrastructure
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImsPosSystem.Api", "ImsPosSystem.Api\ImsPosSystem.Api.csproj", "{F65BEEA7-43CC-4EC2-8AC5-B0701C3AE8EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImsPosSystem.Tests", "ImsPosSystem.Tests\ImsPosSystem.Tests.csproj", "{B30C549B-A2C0-4721-8EA1-E91EE0ABFA0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,18 @@ Global
 		{F65BEEA7-43CC-4EC2-8AC5-B0701C3AE8EF}.Release|x64.Build.0 = Release|Any CPU
 		{F65BEEA7-43CC-4EC2-8AC5-B0701C3AE8EF}.Release|x86.ActiveCfg = Release|Any CPU
 		{F65BEEA7-43CC-4EC2-8AC5-B0701C3AE8EF}.Release|x86.Build.0 = Release|Any CPU
+		{B30C549B-A2C0-4721-8EA1-E91EE0ABFA0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B30C549B-A2C0-4721-8EA1-E91EE0ABFA0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B30C549B-A2C0-4721-8EA1-E91EE0ABFA0C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B30C549B-A2C0-4721-8EA1-E91EE0ABFA0C}.Debug|x64.Build.0 = Debug|Any CPU
+		{B30C549B-A2C0-4721-8EA1-E91EE0ABFA0C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B30C549B-A2C0-4721-8EA1-E91EE0ABFA0C}.Debug|x86.Build.0 = Debug|Any CPU
+		{B30C549B-A2C0-4721-8EA1-E91EE0ABFA0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B30C549B-A2C0-4721-8EA1-E91EE0ABFA0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B30C549B-A2C0-4721-8EA1-E91EE0ABFA0C}.Release|x64.ActiveCfg = Release|Any CPU
+		{B30C549B-A2C0-4721-8EA1-E91EE0ABFA0C}.Release|x64.Build.0 = Release|Any CPU
+		{B30C549B-A2C0-4721-8EA1-E91EE0ABFA0C}.Release|x86.ActiveCfg = Release|Any CPU
+		{B30C549B-A2C0-4721-8EA1-E91EE0ABFA0C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

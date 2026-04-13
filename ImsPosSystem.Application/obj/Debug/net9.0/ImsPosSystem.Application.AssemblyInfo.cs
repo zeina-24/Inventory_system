@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImsPosSystem.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+683b54b5dcbaec04fc0c2800fe0f85059609ba8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5da4967074527587e66849432de21e22bf1a1006")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImsPosSystem.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImsPosSystem.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

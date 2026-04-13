@@ -2,6 +2,7 @@ using AutoMapper;
 using ImsPosSystem.Application.DTOs.Catalogue;
 using ImsPosSystem.Application.DTOs.Warehouse;
 using ImsPosSystem.Application.DTOs.Purchasing;
+using ImsPosSystem.Application.DTOs.POS;
 using ImsPosSystem.Domain.Entities;
 
 namespace ImsPosSystem.Application.Mappings;
@@ -51,5 +52,18 @@ public class MappingProfile : Profile
             .ForMember(dest => dest.PurchaseInvoiceLines, opt => opt.MapFrom(src => src.Lines));
 
         CreateMap<CreatePurchaseInvoiceLineDTO, PurchaseInvoiceLine>();
+
+        // ── POS ──────────────────────────────────────────────────────────────
+        CreateMap<SalesInvoice, SalesInvoiceDTO>()
+            .ForMember(dest => dest.Lines, opt => opt.MapFrom(src => src.SalesInvoiceLines));
+
+        CreateMap<SalesInvoiceLine, SalesInvoiceLineDTO>()
+            .ForMember(dest => dest.ProductName, opt => opt.MapFrom(src => src.Product.ProductName))
+            .ForMember(dest => dest.LocationName, opt => opt.MapFrom(src => src.Location.Description));
+
+        CreateMap<CreateSalesInvoiceDTO, SalesInvoice>()
+            .ForMember(dest => dest.SalesInvoiceLines, opt => opt.MapFrom(src => src.Lines));
+
+        CreateMap<CreateSalesInvoiceLineDTO, SalesInvoiceLine>();
     }
 }

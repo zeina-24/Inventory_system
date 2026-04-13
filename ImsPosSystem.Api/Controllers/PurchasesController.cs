@@ -2,8 +2,11 @@ using ImsPosSystem.Application.DTOs.Purchasing;
 using ImsPosSystem.Application.Interfaces.Services;
 using Microsoft.AspNetCore.Mvc;
 
+using Microsoft.AspNetCore.Authorization;
+
 namespace ImsPosSystem.Api.Controllers;
 
+[Authorize(Roles = "Admin, Warehouse Manager")]
 [ApiController]
 [Route("api/[controller]")]
 [Produces("application/json")]

@@ -2,10 +2,11 @@ using System;
 using System.Collections.Generic;
 using ImsPosSystem.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace ImsPosSystem.Infrastructure.Persistence;
 
-public partial class ApplicationDbContext : DbContext
+public partial class ApplicationDbContext : IdentityDbContext<ApplicationUser>
 {
     public ApplicationDbContext()
     {
@@ -15,7 +16,6 @@ public partial class ApplicationDbContext : DbContext
         : base(options)
     {
     }
-
     public virtual DbSet<Category> Categories { get; set; }
 
     public virtual DbSet<Product> Products { get; set; }
@@ -48,6 +48,7 @@ public partial class ApplicationDbContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        base.OnModelCreating(modelBuilder);
         modelBuilder.UseCollation("SQL_Latin1_General_CP1_CI_AS");
 
             modelBuilder.Entity<Category>(entity =>

@@ -3,52 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F65BEEA7-43CC-4EC2-8AC5-B0701C3AE8EF}|ImsPosSystem.Api\\ImsPosSystem.Api.csproj|c:\\users\\hager\\projects\\imspossystem\\imspossystem.api\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F65BEEA7-43CC-4EC2-8AC5-B0701C3AE8EF}|ImsPosSystem.Api\\ImsPosSystem.Api.csproj|solutionrelative:imspossystem.api\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6125EF44-E4A2-4534-8AE8-7D67CDB15C9F}|ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj|c:\\users\\hager\\projects\\imspossystem\\imspossystem.infrastructure\\persistence\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6125EF44-E4A2-4534-8AE8-7D67CDB15C9F}|ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj|solutionrelative:imspossystem.infrastructure\\persistence\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6125EF44-E4A2-4534-8AE8-7D67CDB15C9F}|ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj|c:\\users\\hager\\projects\\imspossystem\\imspossystem.infrastructure\\extensions\\infrastructureserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6125EF44-E4A2-4534-8AE8-7D67CDB15C9F}|ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj|solutionrelative:imspossystem.infrastructure\\extensions\\infrastructureserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F65BEEA7-43CC-4EC2-8AC5-B0701C3AE8EF}|ImsPosSystem.Api\\ImsPosSystem.Api.csproj|c:\\users\\hager\\projects\\imspossystem\\imspossystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F65BEEA7-43CC-4EC2-8AC5-B0701C3AE8EF}|ImsPosSystem.Api\\ImsPosSystem.Api.csproj|solutionrelative:imspossystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{114A7D48-C335-49E4-8E43-E10B9054C767}|ImsPosSystem.Application\\ImsPosSystem.Application.csproj|c:\\users\\hager\\projects\\imspossystem\\imspossystem.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{114A7D48-C335-49E4-8E43-E10B9054C767}|ImsPosSystem.Application\\ImsPosSystem.Application.csproj|solutionrelative:imspossystem.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F65BEEA7-43CC-4EC2-8AC5-B0701C3AE8EF}|ImsPosSystem.Api\\ImsPosSystem.Api.csproj|c:\\users\\hager\\projects\\imspossystem\\imspossystem.api\\imspossystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F65BEEA7-43CC-4EC2-8AC5-B0701C3AE8EF}|ImsPosSystem.Api\\ImsPosSystem.Api.csproj|solutionrelative:imspossystem.api\\imspossystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6125EF44-E4A2-4534-8AE8-7D67CDB15C9F}|ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj|c:\\users\\hager\\projects\\imspossystem\\imspossystem.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6125EF44-E4A2-4534-8AE8-7D67CDB15C9F}|ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj|solutionrelative:imspossystem.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6125EF44-E4A2-4534-8AE8-7D67CDB15C9F}|ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj|c:\\users\\hager\\projects\\imspossystem\\imspossystem.infrastructure\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6125EF44-E4A2-4534-8AE8-7D67CDB15C9F}|ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj|solutionrelative:imspossystem.infrastructure\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6125EF44-E4A2-4534-8AE8-7D67CDB15C9F}|ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj|c:\\users\\hager\\projects\\imspossystem\\imspossystem.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6125EF44-E4A2-4534-8AE8-7D67CDB15C9F}|ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj|solutionrelative:imspossystem.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6125EF44-E4A2-4534-8AE8-7D67CDB15C9F}|ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj|c:\\users\\hager\\projects\\imspossystem\\imspossystem.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6125EF44-E4A2-4534-8AE8-7D67CDB15C9F}|ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj|solutionrelative:imspossystem.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CE12811-F317-4EF7-ADCD-7E3F0417E12D}|ImsPosSystem.Domain\\ImsPosSystem.Domain.csproj|c:\\users\\hager\\projects\\imspossystem\\imspossystem.domain\\imspossystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0CE12811-F317-4EF7-ADCD-7E3F0417E12D}|ImsPosSystem.Domain\\ImsPosSystem.Domain.csproj|solutionrelative:imspossystem.domain\\imspossystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{6125EF44-E4A2-4534-8AE8-7D67CDB15C9F}|ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj|c:\\users\\hager\\projects\\imspossystem\\imspossystem.infrastructure\\persistence\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6125EF44-E4A2-4534-8AE8-7D67CDB15C9F}|ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj|solutionrelative:imspossystem.infrastructure\\persistence\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125EF44-E4A2-4534-8AE8-7D67CDB15C9F}|ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj|c:\\users\\hager\\projects\\imspossystem\\imspossystem.infrastructure\\persistence\\identityonlycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6125EF44-E4A2-4534-8AE8-7D67CDB15C9F}|ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj|solutionrelative:imspossystem.infrastructure\\persistence\\identityonlycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125EF44-E4A2-4534-8AE8-7D67CDB15C9F}|ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj|c:\\users\\hager\\projects\\imspossystem\\imspossystem.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6125EF44-E4A2-4534-8AE8-7D67CDB15C9F}|ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj|solutionrelative:imspossystem.infrastructure\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125EF44-E4A2-4534-8AE8-7D67CDB15C9F}|ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj|c:\\users\\hager\\projects\\imspossystem\\imspossystem.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6125EF44-E4A2-4534-8AE8-7D67CDB15C9F}|ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj|solutionrelative:imspossystem.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65BEEA7-43CC-4EC2-8AC5-B0701C3AE8EF}|ImsPosSystem.Api\\ImsPosSystem.Api.csproj|c:\\users\\hager\\projects\\imspossystem\\imspossystem.api\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65BEEA7-43CC-4EC2-8AC5-B0701C3AE8EF}|ImsPosSystem.Api\\ImsPosSystem.Api.csproj|solutionrelative:imspossystem.api\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65BEEA7-43CC-4EC2-8AC5-B0701C3AE8EF}|ImsPosSystem.Api\\ImsPosSystem.Api.csproj|c:\\users\\hager\\projects\\imspossystem\\imspossystem.api\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65BEEA7-43CC-4EC2-8AC5-B0701C3AE8EF}|ImsPosSystem.Api\\ImsPosSystem.Api.csproj|solutionrelative:imspossystem.api\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F65BEEA7-43CC-4EC2-8AC5-B0701C3AE8EF}|ImsPosSystem.Api\\ImsPosSystem.Api.csproj|c:\\users\\hager\\projects\\imspossystem\\imspossystem.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F65BEEA7-43CC-4EC2-8AC5-B0701C3AE8EF}|ImsPosSystem.Api\\ImsPosSystem.Api.csproj|solutionrelative:imspossystem.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65BEEA7-43CC-4EC2-8AC5-B0701C3AE8EF}|ImsPosSystem.Api\\ImsPosSystem.Api.csproj|c:\\users\\hager\\projects\\imspossystem\\imspossystem.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65BEEA7-43CC-4EC2-8AC5-B0701C3AE8EF}|ImsPosSystem.Api\\ImsPosSystem.Api.csproj|solutionrelative:imspossystem.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114A7D48-C335-49E4-8E43-E10B9054C767}|ImsPosSystem.Application\\ImsPosSystem.Application.csproj|c:\\users\\hager\\projects\\imspossystem\\imspossystem.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114A7D48-C335-49E4-8E43-E10B9054C767}|ImsPosSystem.Application\\ImsPosSystem.Application.csproj|solutionrelative:imspossystem.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{114A7D48-C335-49E4-8E43-E10B9054C767}|ImsPosSystem.Application\\ImsPosSystem.Application.csproj|c:\\users\\hager\\projects\\imspossystem\\imspossystem.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{114A7D48-C335-49E4-8E43-E10B9054C767}|ImsPosSystem.Application\\ImsPosSystem.Application.csproj|solutionrelative:imspossystem.application\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65BEEA7-43CC-4EC2-8AC5-B0701C3AE8EF}|ImsPosSystem.Api\\ImsPosSystem.Api.csproj|c:\\users\\hager\\projects\\imspossystem\\imspossystem.api\\imspossystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F65BEEA7-43CC-4EC2-8AC5-B0701C3AE8EF}|ImsPosSystem.Api\\ImsPosSystem.Api.csproj|solutionrelative:imspossystem.api\\imspossystem.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125EF44-E4A2-4534-8AE8-7D67CDB15C9F}|ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj|c:\\users\\hager\\projects\\imspossystem\\imspossystem.infrastructure\\extensions\\infrastructureserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6125EF44-E4A2-4534-8AE8-7D67CDB15C9F}|ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj|solutionrelative:imspossystem.infrastructure\\extensions\\infrastructureserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6125EF44-E4A2-4534-8AE8-7D67CDB15C9F}|ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj|c:\\users\\hager\\projects\\imspossystem\\imspossystem.infrastructure\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6125EF44-E4A2-4534-8AE8-7D67CDB15C9F}|ImsPosSystem.Infrastructure\\ImsPosSystem.Infrastructure.csproj|solutionrelative:imspossystem.infrastructure\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE12811-F317-4EF7-ADCD-7E3F0417E12D}|ImsPosSystem.Domain\\ImsPosSystem.Domain.csproj|c:\\users\\hager\\projects\\imspossystem\\imspossystem.domain\\imspossystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0CE12811-F317-4EF7-ADCD-7E3F0417E12D}|ImsPosSystem.Domain\\ImsPosSystem.Domain.csproj|solutionrelative:imspossystem.domain\\imspossystem.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F65BEEA7-43CC-4EC2-8AC5-B0701C3AE8EF}|ImsPosSystem.Api\\ImsPosSystem.Api.csproj|c:\\users\\hager\\projects\\imspossystem\\imspossystem.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -62,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,20 +102,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "SuppliersController.cs",
               "DocumentMoniker": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Api\\Controllers\\SuppliersController.cs",
               "RelativeDocumentMoniker": "ImsPosSystem.Api\\Controllers\\SuppliersController.cs",
               "ToolTip": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Api\\Controllers\\SuppliersController.cs",
               "RelativeToolTip": "ImsPosSystem.Api\\Controllers\\SuppliersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-07T21:41:45.926Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Infrastructure\\Persistence\\DbInitializer.cs",
               "RelativeDocumentMoniker": "ImsPosSystem.Infrastructure\\Persistence\\DbInitializer.cs",
@@ -112,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "ImsPosSystem.Api.csproj",
               "DocumentMoniker": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Api\\ImsPosSystem.Api.csproj",
               "RelativeDocumentMoniker": "ImsPosSystem.Api\\ImsPosSystem.Api.csproj",
@@ -124,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ImsPosSystem.Api\\Properties\\launchSettings.json",
@@ -136,44 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Api\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "ImsPosSystem.Api\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Api\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "ImsPosSystem.Api\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAiwGsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T09:29:05.352Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Api\\Program.cs",
-              "RelativeDocumentMoniker": "ImsPosSystem.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Api\\Program.cs",
-              "RelativeToolTip": "ImsPosSystem.Api\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAcwEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T07:00:24.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Infrastructure\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "ImsPosSystem.Infrastructure\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Infrastructure\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "ImsPosSystem.Infrastructure\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAwwA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T10:26:12.523Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Infrastructure\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "ImsPosSystem.Infrastructure\\UnitOfWork.cs",
@@ -181,24 +160,115 @@
               "RelativeToolTip": "ImsPosSystem.Infrastructure\\UnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T10:08:37.445Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "InfrastructureServiceExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Infrastructure\\Extensions\\InfrastructureServiceExtensions.cs",
-              "RelativeDocumentMoniker": "ImsPosSystem.Infrastructure\\Extensions\\InfrastructureServiceExtensions.cs",
-              "ToolTip": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Infrastructure\\Extensions\\InfrastructureServiceExtensions.cs",
-              "RelativeToolTip": "ImsPosSystem.Infrastructure\\Extensions\\InfrastructureServiceExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T10:07:40.744Z",
+              "WhenOpened": "2026-04-06T10:08:37.445Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ImsPosSystem.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ImsPosSystem.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAHEBAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T10:25:26.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ImsPosSystem.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Api\\Program.cs",
+              "RelativeToolTip": "ImsPosSystem.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T07:00:24.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdentityOnlyContext.cs",
+              "DocumentMoniker": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Infrastructure\\Persistence\\IdentityOnlyContext.cs",
+              "RelativeDocumentMoniker": "ImsPosSystem.Infrastructure\\Persistence\\IdentityOnlyContext.cs",
+              "ToolTip": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Infrastructure\\Persistence\\IdentityOnlyContext.cs",
+              "RelativeToolTip": "ImsPosSystem.Infrastructure\\Persistence\\IdentityOnlyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T20:08:11.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ImsPosSystem.Application\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Application\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "ImsPosSystem.Application\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA/wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T22:21:38.537Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "ImsPosSystem.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Infrastructure\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "ImsPosSystem.Infrastructure\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T10:26:12.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Api\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ImsPosSystem.Api\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Api\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ImsPosSystem.Api\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:23:22.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Api\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "ImsPosSystem.Api\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Api\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "ImsPosSystem.Api\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T10:23:58.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Api\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ImsPosSystem.Api\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Api\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ImsPosSystem.Api\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAiwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T09:29:05.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Application\\Mappings\\MappingProfile.cs",
               "RelativeDocumentMoniker": "ImsPosSystem.Application\\Mappings\\MappingProfile.cs",
@@ -211,7 +281,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
+              "Title": "InfrastructureServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Infrastructure\\Extensions\\InfrastructureServiceExtensions.cs",
+              "RelativeDocumentMoniker": "ImsPosSystem.Infrastructure\\Extensions\\InfrastructureServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Infrastructure\\Extensions\\InfrastructureServiceExtensions.cs",
+              "RelativeToolTip": "ImsPosSystem.Infrastructure\\Extensions\\InfrastructureServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T10:07:40.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Infrastructure\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "ImsPosSystem.Infrastructure\\Services\\CategoryService.cs",
@@ -223,19 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ImsPosSystem.Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "RelativeToolTip": "ImsPosSystem.Infrastructure\\Persistence\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T10:25:26.649Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "ImsPosSystem.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\HAGER\\Projects\\ImsPosSystem\\ImsPosSystem.Domain\\ImsPosSystem.Domain.csproj",
               "RelativeDocumentMoniker": "ImsPosSystem.Domain\\ImsPosSystem.Domain.csproj",

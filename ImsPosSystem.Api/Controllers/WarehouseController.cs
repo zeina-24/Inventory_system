@@ -2,8 +2,11 @@ using ImsPosSystem.Application.DTOs.Warehouse;
 using ImsPosSystem.Application.Interfaces.Services;
 using Microsoft.AspNetCore.Mvc;
 
+using Microsoft.AspNetCore.Authorization;
+
 namespace ImsPosSystem.Api.Controllers;
 
+[Authorize(Roles = "Admin, Warehouse Manager")]
 [ApiController]
 [Route("api/warehouse/locations")]
 [Produces("application/json")]
@@ -49,6 +52,7 @@ public class StorageLocationsController : ControllerBase
     }
 }
 
+[Authorize(Roles = "Admin, Warehouse Manager")]
 [ApiController]
 [Route("api/warehouse/stock")]
 [Produces("application/json")]

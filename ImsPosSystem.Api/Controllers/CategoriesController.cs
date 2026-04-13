@@ -2,8 +2,11 @@ using ImsPosSystem.Application.DTOs.Catalogue;
 using ImsPosSystem.Application.Interfaces.Services;
 using Microsoft.AspNetCore.Mvc;
 
+using Microsoft.AspNetCore.Authorization;
+
 namespace ImsPosSystem.Api.Controllers;
 
+[Authorize(Roles = "Admin")]
 [ApiController]
 [Route("api/[controller]")]
 [Produces("application/json")]
@@ -62,6 +65,7 @@ public class CategoriesController : ControllerBase
         => Ok(await _subcategoryService.GetSubcategoriesByCategoryAsync(categoryId));
 }
 
+[Authorize(Roles = "Admin")]
 [ApiController]
 [Route("api/[controller]")]
 [Produces("application/json")]

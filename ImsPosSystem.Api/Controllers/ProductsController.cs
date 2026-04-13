@@ -2,8 +2,11 @@ using ImsPosSystem.Application.DTOs.Catalogue;
 using ImsPosSystem.Application.Interfaces.Services;
 using Microsoft.AspNetCore.Mvc;
 
+using Microsoft.AspNetCore.Authorization;
+
 namespace ImsPosSystem.Api.Controllers;
 
+[Authorize(Roles = "Admin, Warehouse Manager, Cashier")]
 [ApiController]
 [Route("api/[controller]")]
 [Produces("application/json")]
@@ -36,6 +39,7 @@ public class ProductsController : ControllerBase
         => Ok(await _service.GetProductLookupsAsync(search));
 
     /// <summary>Create a product</summary>
+    [Authorize(Roles = "Admin")]
     [HttpPost]
     public async Task<ActionResult<ProductDto>> Create([FromBody] CreateProductDto dto)
     {
@@ -44,11 +48,13 @@ public class ProductsController : ControllerBase
     }
 
     /// <summary>Update a product</summary>
+    [Authorize(Roles = "Admin")]
     [HttpPut("{id:int}")]
     public async Task<ActionResult<ProductDto>> Update(int id, [FromBody] UpdateProductDto dto)
         => Ok(await _service.UpdateProductAsync(id, dto));
 
     /// <summary>Soft-deactivate a product (IsActive = false)</summary>
+    [Authorize(Roles = "Admin")]
     [HttpPatch("{id:int}/deactivate")]
     public async Task<IActionResult> Deactivate(int id)
     {
@@ -57,6 +63,7 @@ public class ProductsController : ControllerBase
     }
 
     /// <summary>Hard-delete a product (blocked if transactions exist)</summary>
+    [Authorize(Roles = "Admin")]
     [HttpDelete("{id:int}")]
     public async Task<IActionResult> Delete(int id)
     {
