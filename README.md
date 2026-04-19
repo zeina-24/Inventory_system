@@ -1,4 +1,4 @@
-# ImsPosSystem — Production-Grade .NET Inventory & POS API
+# ImsPosSystem — .NET Inventory & POS API
 
 A high-performance, scalable backend solution built with **ASP.NET Core 9**, implementing **Clean Architecture**. This project provides a robust RESTful API covering the entire e-commerce and inventory domain—from product cataloging and warehouse management to transactional Point of Sale (POS) and purchasing workflows.
 
